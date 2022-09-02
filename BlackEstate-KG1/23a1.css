@@ -1,0 +1,41 @@
+body{
+    background-color:white;
+}
+.p2container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color: brown;
+    max-height: 700px;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+    border-radius: 10px 10px 0 0;
+}
+.p2container img{
+    min-height: 100px;
+    max-height: 250px;
+}
+.p2a1{
+    top: -13px;
+    margin: 0px;
+    padding: 5px;
+}
+h5{
+    margin: 0px;
+    padding: 0px;
+}
+.p2a3{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.p2aa3{
+    display: flex;
+}
+.p2container:hover >.box{
+    transform: scale(1.2);
+    transition: 1.2s;
+}
+a{
+    color: brown;
+}

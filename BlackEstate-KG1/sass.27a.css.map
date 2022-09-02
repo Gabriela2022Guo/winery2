@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,IAAI,CAAA;EACA,gBAAgB,EALR,OAAkB;CAM7B",
+    "sources": [
+        "sass.27a.scss"
+    ],
+    "names": [],
+    "file": "sass.27a.css"
+}
